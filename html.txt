@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Portfolio</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-black text-white">
+
+<div class="text-center py-20">
+  <h1 class="text-5xl font-bold">AI Automation Expert</h1>
+  <p class="mt-4 text-gray-400">n8n | AI Agents | Automation Systems</p>
+
+  <a href="https://wa.me/923707837631">
+    <button class="mt-6 px-6 py-3 bg-white text-black rounded-xl">
+      WhatsApp Me
+    </button>
+  </a>
+</div>
+
+</body>
+</html>
